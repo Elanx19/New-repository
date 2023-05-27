@@ -1,0 +1,1 @@
+var numeral="Numeros Naturales"
